@@ -9,16 +9,15 @@ From building web apps to experimenting with AI models, I enjoy working across t
 ---
 ## 💡 About Me
 
-- 👋 Hi, I’m Dhruti!
+- 👋 Hi, I’m Dhruti
+- 😄 Pronouns: She/Her  
 - 👀 I’m interested in exploring AI, web development, cloud computing, and open-source collaboration.  
 - 🌱 I’m currently learning advanced machine learning techniques and new frontend frameworks.    
 - 📫 How to reach me: kamatdk7@gmail.com or via [LinkedIn](https://www.linkedin.com/in/kamatdhruti/)  
-- 😄 Pronouns: She/Her  
-- ⚡ Fun fact: My idea of a wild night? Coffee, clean code, and a plot twist in a thriller novel💻📖☕✨
 - 👩‍💻 Tech Stack: `Python`, `C++`, `JavaScript`, `HTML`, `CSS`, `MySQL`, `MongoDB`, `TensorFlow`, `OpenCV`  
 - 💼 Internship experience: Web Dev, AI/ML
 - 🎯 Actively working on open-source and personal projects  
-
+- ⚡ Fun fact: My idea of a wild night? Coffee, clean code, and a plot twist in a thriller novel💻📖☕✨
 ---
 
 ## 📊 Languages Used
